@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+
+.content {
+  background-color: #c5ccb9;
+  border-radius: 18px;
+}
+
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+.header {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.header h1 {
+  color: #c5ccb9;
+}
+.header .links {
+  margin-left: auto;
+}
+.haina-preview h3 {
+  color: #fff;
+}
+
+.haina-preview p {
+  color: #fff;
+}
+.header a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.facebook {
+  position: absolute;
+  bottom: 10px;
+  width: 50%;
+}
+.instagram {
+  position: absolute;
+  bottom: 40px;
+  width: 50%;
+}
+
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.create label {
+  text-align: left;
+  display: block;
+}
+
+.create h2 {
+  font-size: 20px;
+  color: #c5ccb9;
+  margin-bottom: 30px;
+}
+
+.create input {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+
+.create button {
+  background: #24251e;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}

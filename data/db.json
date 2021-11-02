@@ -1,0 +1,24 @@
+{
+  "haine": [
+    {
+      "denumire": "Ochelari de soare",
+      "pret": "30LEI",
+      "id": 1
+    },
+    {
+      "denumire": "Fular",
+      "pret": "35LEI",
+      "id": 2
+    },
+    {
+      "denumire": "Geaca",
+      "pret": "100Lei",
+      "id": 3
+    },
+    {
+      "denumire": "ccc",
+      "pret": "29leii",
+      "id": 4
+    }
+  ]
+}
